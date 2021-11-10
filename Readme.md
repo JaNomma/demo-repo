@@ -1,3 +1,3 @@
 read file
 
-comit
+comited
